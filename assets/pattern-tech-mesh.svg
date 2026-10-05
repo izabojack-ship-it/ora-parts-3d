@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <pattern id="mesh" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="rgba(201,162,39,0.07)" stroke-width="0.5"/>
+      <circle cx="0" cy="0" r="0.6" fill="rgba(201,162,39,0.12)"/>
+    </pattern>
+  </defs>
+  <rect width="64" height="64" fill="url(#mesh)"/>
+</svg>

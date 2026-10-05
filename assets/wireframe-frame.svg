@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 280" fill="none" stroke="rgba(197,160,89,0.12)" stroke-width="1">
+  <!-- simplified bicycle frame wireframe -->
+  <path d="M80 220 L120 80 L200 60 L280 80 L320 220"/>
+  <path d="M120 80 L200 140 L280 80"/>
+  <circle cx="80" cy="220" r="38"/>
+  <circle cx="320" cy="220" r="38"/>
+  <path d="M200 140 L200 180"/>
+  <path d="M160 180 L240 180"/>
+  <ellipse cx="200" cy="140" rx="18" ry="8"/>
+  <path d="M200 60 L200 40"/>
+  <path d="M185 40 L215 40"/>
+</svg>
